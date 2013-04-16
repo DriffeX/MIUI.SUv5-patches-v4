@@ -1,0 +1,1 @@
+        <com.android.browser.search.SearchEnginePreference android:title="@string/pref_content_search_engine" android:key="search_engine" android:summary="@string/pref_content_search_engine_summary" android:defaultValue="yandex_ru" android:dialogTitle="@string/pref_content_search_engine" />
